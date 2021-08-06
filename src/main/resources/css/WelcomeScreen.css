@@ -1,0 +1,10 @@
+#screen {
+    -fx-background-color: #111;
+}
+
+#screen Button {
+    -fx-background-color: #611800;
+    -fx-text-fill: #fff;
+    -fx-min-width: 100;
+    -fx-min-height: 50;
+}

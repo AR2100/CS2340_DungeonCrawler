@@ -1,0 +1,11 @@
+WeaponUseTime:     0.25
+Damage:             2
+Knockback:          5
+AoeDamage:          0
+ImageId:            16
+SpriteCenterX:      0.4
+SpriteCenterY:      0.65
+BoxColliderWidth:   25
+BoxColliderHeight:  25
+BoxColliderTheta:   45
+BoxColliderR:       30

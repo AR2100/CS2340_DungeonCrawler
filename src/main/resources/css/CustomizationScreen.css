@@ -1,0 +1,20 @@
+#screenVBox {
+    -fx-background-color: #111;
+}
+Label {
+    -fx-text-fill: white;
+    -fx-font-size: 15;
+
+}
+ChoiceBox {
+    /* -fx-background-color: orange; */
+    /* -fx-inner-text-fill: black; */
+
+}
+ChoiceBox Label {
+    -fx-text-fill: black;
+}
+
+RadioButton {
+    -fx-text-fill: orange;
+}

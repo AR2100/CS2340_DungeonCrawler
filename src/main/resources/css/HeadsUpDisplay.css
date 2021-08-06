@@ -1,0 +1,19 @@
+#headsUpDisplay {
+    -fx-background-color: #171717;
+}
+#headsUpDisplay VBox {
+    -fx-padding: 2;
+    -fx-min-height: 50;
+    -fx-max-height: 50;
+    /*-fx-max-width: 125; */
+    -fx-border-color: white;
+}
+#headsUpDisplay Label {
+    -fx-text-fill: white;
+    -fx-spacing: 30;
+    -fx-font-size: 17;
+}
+
+#headsUpDisplay Text {
+    -fx-font-size: 17;
+}
